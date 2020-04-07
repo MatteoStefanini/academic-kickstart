@@ -91,4 +91,4 @@ Currently I am PhD Candidate in Artificial Intelligence, studying Deep Learning 
 
 I aim to couple my passion for learning and my drive to inspire people around me. I believe AI will help genomics and biomedical fields to new universal missions.
 
-I'm also a TEDx Organizer in the biomedical valley of Mirandola. Would you like to [join us](https://www.tedxmirandola.com/#collabora)?
+I'm also a TEDx Organizer in the biomedical valley of Mirandola (MO). [Open calls to join us](https://www.tedxmirandola.com/#collabora)!
