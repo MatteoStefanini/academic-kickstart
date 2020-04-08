@@ -22,7 +22,7 @@ organizations:
   url: "https://www.tedxmirandola.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Deep Learning, Vision and Language and AI applied to Genomics and Biomedical.
+bio: I'm a (deep) learner who loves freedom. Working on Deep Learning, Vision and Language and interested in applying AI to Genomics and Biomedical fields. Driven to inspire people. #My research interests include Deep Learning, Vision and Language and AI applied to Genomics and Biomedical.
 
 interests:
 - Artificial Intelligence and Deep Learning
@@ -38,7 +38,7 @@ education:
   - course: MEng in Computer Science Engineering - Laurea Magistrale in Ingengeria Informatica
     institution: University of Modena and Reggio Emilia
     year: 2018
-  - course: MSc in Management of Innovation and Entrepreneurship - Laurea Magistrale in Management dell'Innovazione e Imprenditorialità
+  - course: MSc in Management of Innovation and Entrepreneurship - (Laurea Magistrale)
     institution: University of Milan
     year: 2016
   - course: BEng in Management Engineering - Laurea in Ingegneria Gestionale
@@ -89,6 +89,6 @@ user_groups:
 
 Currently I am PhD Candidate in Artificial Intelligence, studying Deep Learning and Computer Vision at [AImagelab](https://aimagelab.ing.unimore.it), [UniMoRe](www.unimore.it). Working to connect Vision and Language under the supervision of Rita Cucchiara and Lorenzo Baraldi.
 
-I aim to couple my passion for learning and my drive to inspire people around me. I believe AI will help genomics and biomedical fields to new universal missions.
+I aim to couple my passion for **learning** and my drive to **motivate** people around me. I believe AI will push genomics and biomedical fields to new universal missions.
 
 I'm also a TEDx Organizer in the biomedical valley of Mirandola (MO). [Open calls to join us](https://www.tedxmirandola.com/#collabora)!
