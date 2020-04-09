@@ -29,3 +29,9 @@ img[alt=resultsVM] {
   width: 100%;
   height: 100%;
 }
+
+@media all and (max-width: 940px) {
+  html {
+    font-size: 1em;
+  }
+}
