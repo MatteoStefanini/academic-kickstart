@@ -29,4 +29,4 @@ projects: []
 ---
 Computer Vision and Pattern Recognition - [CVPR](http://cvpr2020.thecvf.com/) - is the most important Artificial Intelligence and Computer Vision Conference in the world (source [Google](https://scholar.google.it/citations?view_op=top_venues&hl=en&venue=w44irn7CFc0J.2019&vq=eng_computervisionpatternrecognition))
 
-Go to the publication [here](http://localhost:1313/publication/cvpr2020/)
+Go to the publication [here](https://www.matteostefanini.com/publication/cvpr2020/)
