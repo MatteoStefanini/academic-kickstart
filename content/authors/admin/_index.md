@@ -27,7 +27,7 @@ bio: I'm a (deep) learner who loves freedom. Working on Deep Learning, Vision an
 interests:
 - Artificial Intelligence and Deep Learning
 - Computer Vision and Language
-- Connecting AI with Genomics, Biomedical and Bioinformatics
+- Connecting AI with Genomics and Biomedical fields
 - Startup and Management
 
 education:
