@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "TEDx Mirandola"
-summary: "Ideas worth spreading. COMING SOON ---2020---!  CALL TO ACTION!"
+title: "NVIDIA AI Technical Center at Unimore"
+summary: ""
 authors: [admin]
 tags: []
 categories: []
-date: 2020-02-26T21:13:44+02:00
+date: 2020-01-16T21:13:44+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.tedxmirandola.com"
+external_link: "https://aimagelab.ing.unimore.it/imagelab/project.asp?idprogetto=80"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
