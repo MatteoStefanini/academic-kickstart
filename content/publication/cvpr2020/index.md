@@ -73,7 +73,7 @@ slides: ""
 
 ## Results:
 
-Currently (April 2020) Meshed-Memory Transformer is still state-of-the-art model on the COCO test server [Leaderboard](https://competitions.codalab.org/competitions/3221#results):
+Meshed-Memory Transformer has been state-of-the-art model on the COCO test server [Leaderboard](https://competitions.codalab.org/competitions/3221#results) for several months:
 ![COCOLeaderboard](/img/CocoLeaderboard.PNG)
 
 ## Full Paper: [pdf](https://arxiv.org/pdf/1912.08226.pdf)
