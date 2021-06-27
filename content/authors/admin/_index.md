@@ -89,6 +89,6 @@ user_groups:
 
 Currently I am PhD Candidate in Artificial Intelligence, studying Deep Learning and Computer Vision at [AImagelab](https://aimagelab.ing.unimore.it), [UniMoRe](www.unimore.it). Working to connect Vision and Language under the supervision of Rita Cucchiara and Lorenzo Baraldi.
 
-I aim to couple my passion for **learning** and my drive to **motivate** people around me. I believe AI will push genomics and biomedical fields to new universal missions.
+I aim to couple my passion for **learning** and my drive to **motivate** people around me. I believe AI will push human life and medical fields to new universal missions.
 
 I'm also a TEDx Organizer in the biomedical valley of Mirandola (MO). [Join us](https://www.tedxmirandola.com/)!

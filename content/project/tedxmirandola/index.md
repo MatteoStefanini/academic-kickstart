@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "TEDx Mirandola"
-summary: "Ideas worth spreading. COMING SOON ---2020---!  CALL TO ACTION!"
+summary: "Ideas worth spreading. Matters of Life 2021. CALL TO ACTION!"
 authors: [admin]
 tags: []
 categories: []
