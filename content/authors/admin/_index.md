@@ -22,7 +22,7 @@ organizations:
   url: "https://www.tedxfortedeimarmi.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a (deep) learner who loves freedom. Working on Deep Learning, Vision and Language and interested in applying AI to Genomics and Biomedical fields. Driven to inspire people. #My research interests include Deep Learning, Vision and Language and AI applied to Genomics and Biomedical.
+bio: I'm a (deep) learner who loves freedom. Working on Deep Learning, Genomics, Gene expression and Vision & Language. Driven to be useful for people. #My research interests include Deep Learning, Genomics, Vision & Language and AI applied to Biomedical fields.
 
 interests:
 - Artificial Intelligence and Deep Learning
@@ -53,15 +53,15 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:matteostefanini1@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: facebook-f
-  icon_pack: fab
-  link: https://www.facebook.com/matteostefanini
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/matteostefanini/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/matteostefanini/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/matteostefanini/
+- icon: facebook-f
+  icon_pack: fab
+  link: https://www.facebook.com/matteostefanini
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MatteoStefanin
