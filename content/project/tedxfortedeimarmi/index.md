@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "TEDx Mirandola"
-summary: "Ideas worth spreading from the european biomedical valley. **Back to Life 2022**"
+title: "Tedx Forte Dei Marmi"
+summary: "Ideas worth spreading from the italian design valley. **Design a Sustainable Future**"
 authors: [admin]
 tags: []
 categories: []
-date: 2020-02-26T21:13:44+02:00
+date: 2022-04-16T13:22:24+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.tedxmirandola.com"
+external_link: "https://www.tedxfortedeimarmi.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

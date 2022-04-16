@@ -14,20 +14,20 @@ role: PhD Candidate in Artificial Intelligence - TEDx Organizer
 
 # Organizations/Affiliations
 organizations:
-- name: AImageLab
-  url: "https://aimagelab.ing.unimore.it"
 - name: University of Modena and Reggio Emilia
   url: "https://www.unimore.it"
 - name: TEDxMirandola
   url: "https://www.tedxmirandola.com/"
+- name: TEDxForteDeiMarmi
+  url: "https://www.tedxfortedeimarmi.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a (deep) learner who loves freedom. Working on Deep Learning, Vision and Language and interested in applying AI to Genomics and Biomedical fields. Driven to inspire people. #My research interests include Deep Learning, Vision and Language and AI applied to Genomics and Biomedical.
 
 interests:
 - Artificial Intelligence and Deep Learning
-- Computer Vision and Language
-- Connecting AI with Genomics and Biomedical fields
+- Science and ideas dissemination
+- Connecting AI with Biomedical fields
 - Startup and Management
 
 education:
@@ -87,8 +87,8 @@ user_groups:
 - Visitors
 ---
 
-Currently I am PhD Candidate in Artificial Intelligence, studying Deep Learning and Computer Vision at [AImagelab](https://aimagelab.ing.unimore.it), [UniMoRe](www.unimore.it). Working to connect Vision and Language under the supervision of Rita Cucchiara and Lorenzo Baraldi.
+I am PhD Candidate in Artificial Intelligence, studying Deep Learning and Computer Vision at [AImagelab](https://aimagelab.ing.unimore.it), [UniMoRe](https://www.unimore.it). Advocating for attentive architectures for **Vision & Language** and **Genomics** applications, such as image captioning and gene expression. 
 
-I aim to couple my passion for **learning** and my drive to **motivate** people around me. I believe AI will push human life and medical fields to new universal missions.
+I aim to couple my passion for **learning** and my drive to motivate people around me. I believe AI will push human life and medical fields to new universal missions.
 
-I'm also a TEDx Organizer in the biomedical valley of Mirandola (MO). [Join us](https://www.tedxmirandola.com/)!
+I'm a **TEDx Organizer** in the biomedical valley of [Mirandola](https://www.tedxmirandola.com/) and in the italian design valley of [Forte dei Marmi](https://www.tedxfortedeimarmi.com/) !
