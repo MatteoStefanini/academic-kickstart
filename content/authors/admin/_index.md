@@ -28,7 +28,7 @@ interests:
 - Artificial Intelligence and Deep Learning
 - Science and ideas dissemination
 - Connecting AI with Biomedical fields
-- Startup and Management
+- Startup and Innovation Management
 
 education:
   courses:
