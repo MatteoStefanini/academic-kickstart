@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Artificial Intelligence - TEDx Organizer
+role: PhD in Artificial Intelligence | TEDx Organizer
 
 # Organizations/Affiliations
 organizations:
 - name: University of Modena and Reggio Emilia
   url: "https://www.unimore.it"
+- name: Biomedical valley
+  url: "https://www.biomedicalvalley.com"
 - name: TEDxMirandola
   url: "https://www.tedxmirandola.com/"
 - name: TEDxForteDeiMarmi
@@ -34,7 +36,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: University of Modena and Reggio Emilia
-    year: 2019 - present
+    year: 2023
   - course: MEng in Computer Science Engineering - Laurea Magistrale in Ingengeria Informatica
     institution: University of Modena and Reggio Emilia
     year: 2018
@@ -87,8 +89,8 @@ user_groups:
 - Visitors
 ---
 
-I am PhD Candidate in Artificial Intelligence, studying Deep Learning and Computer Vision at [AImagelab](https://aimagelab.ing.unimore.it), [UniMoRe](https://www.unimore.it). Advocating for attentive architectures for **Vision & Language** and **Genomics** applications, such as image captioning and gene expression. 
+I got a PhD in Artificial Intelligence, working on Deep Learning and Transformer models at [UniMoRe](https://www.unimore.it), [AImagelab](https://aimagelab.ing.unimore.it). Particular focus on  **Vision & Language** and **Genomics** applications, such as image captioning and gene and protein expression. 
 
-I aim to couple my passion for **learning** and my drive to motivate people around me. I believe AI will push human life and medical fields to new universal missions.
+I believe AI will push life sciences to new breakthroughs.
 
-I'm a **TEDx Organizer** in the biomedical valley of [Mirandola](https://www.tedxmirandola.com/) and in the italian design valley of [Forte dei Marmi](https://www.tedxfortedeimarmi.com/) !
+I'm also a **TEDx Organizer** in the [Biomedical valley](https://www.biomedicalvalley.com) of [Mirandola](https://www.tedxmirandola.com/) and in the most exclusive italian location of [Forte dei Marmi](https://www.tedxfortedeimarmi.com/) !

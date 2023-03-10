@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tedx Forte Dei Marmi"
-summary: "Ideas worth spreading from the italian design valley. **Design a Sustainable Future**"
+summary: "Ideas worth spreading from the heart of the most exclusive Italian experience. **Design a Sustainable Future**"
 authors: [admin]
 tags: []
 categories: []
