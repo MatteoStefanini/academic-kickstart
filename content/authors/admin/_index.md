@@ -29,10 +29,11 @@ organizations:
 bio: I'm a connector, an innovation manager and a deep-learner who loves freedom and combining different ideas with science and entrepreneurship. # Driven to be useful for people. #My research interests include Deep Learning, Genomics, Vision & Language and AI applied to Biomedical fields.
 
 interests:
-- Artificial Intelligence and Deep Learning
-- Science and ideas dissemination
-- Connecting AI with Biomedical fields
-- Startup and Innovation Management
+- Innovation Management & Startup
+- AI & Deep Learning
+- Science & Ideas Dissemination
+- Events & Conferences
+- Connecting AI with Medtech
 
 education:
   courses:
@@ -91,9 +92,10 @@ user_groups:
 - Visitors
 ---
 
-I'm a connector aiming at combine different ideas with science and entrepreneurship. 
+I'm a connector who aims to combine different ideas & fields with science & entrepreneurship.
+
+I'm the Coordinator Manager of [Biomedical valley](https://www.biomedicalvalley.com), and TEDx Organizer at [TEDxMirandola](https://www.tedxmirandola.com/) and in the most exclusive italian location at [TEDxForte dei Marmi](https://www.tedxfortedeimarmi.com/).
+
+I'm collaborating with [Unimore](https://www.unimore.it) on AI projects and with [Clust-ER Health](https://health.clust-er.it/) in the Medtech sector, believing AI will push life sciences to new breakthroughs.
 
 I got a PhD in Artificial Intelligence, working on Deep Learning and Transformer models at [Unimore](https://www.unimore.it), focusing on **Generative AI**,  **Vision & Language** and **Genomics**. 
-I believe AI will push life sciences to new breakthroughs.
-
-I'm the Coordinator Manager of [Biomedical valley](https://www.biomedicalvalley.com) and a **TEDx Organizer** in [Mirandola](https://www.tedxmirandola.com/) and in the most exclusive italian location of [Forte dei Marmi](https://www.tedxfortedeimarmi.com/) !
