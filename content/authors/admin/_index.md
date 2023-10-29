@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Matteo Stefanini
+name: Matteo Stefanini, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in Artificial Intelligence | TEDx Organizer
+role: Artificial Intelligence Project Manager | Innovation Manager | TEDx Organizer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Modena and Reggio Emilia
-  url: "https://www.unimore.it"
+- name: TEDxForteDeiMarmi
+  url: "https://www.tedxfortedeimarmi.com/" 
 - name: Biomedical valley
   url: "https://www.biomedicalvalley.com"
 - name: TEDxMirandola
   url: "https://www.tedxmirandola.com/"
-- name: TEDxForteDeiMarmi
-  url: "https://www.tedxfortedeimarmi.com/"
+- name: University of Modena and Reggio Emilia
+  url: "https://www.unimore.it"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a (deep) learner who loves freedom. Working on Deep Learning, Genomics, Gene expression and Vision & Language. Driven to be useful for people. #My research interests include Deep Learning, Genomics, Vision & Language and AI applied to Biomedical fields.
+bio: I'm a connector, an innovation manager and a deep-learner who loves freedom and combining different ideas with science and entrepreneurship. # Driven to be useful for people. #My research interests include Deep Learning, Genomics, Vision & Language and AI applied to Biomedical fields.
 
 interests:
 - Artificial Intelligence and Deep Learning
@@ -89,8 +89,9 @@ user_groups:
 - Visitors
 ---
 
-I got a PhD in Artificial Intelligence, working on Deep Learning and Transformer models at [UniMoRe](https://www.unimore.it), [AImagelab](https://aimagelab.ing.unimore.it). Particular focus on  **Vision & Language** and **Genomics** applications, such as image captioning and gene and protein expression. 
+I'm a connector aiming at combine different ideas with science and entrepreneurship. 
 
+I got a PhD in Artificial Intelligence, working on Deep Learning and Transformer models at [Unimore](https://www.unimore.it), focusing on **Generative AI**,  **Vision & Language** and **Genomics**. 
 I believe AI will push life sciences to new breakthroughs.
 
-I'm also a **TEDx Organizer** in the [Biomedical valley](https://www.biomedicalvalley.com) of [Mirandola](https://www.tedxmirandola.com/) and in the most exclusive italian location of [Forte dei Marmi](https://www.tedxfortedeimarmi.com/) !
+I'm the Coordinator Manager of [Biomedical valley](https://www.biomedicalvalley.com) and a **TEDx Organizer** in [Mirandola](https://www.tedxmirandola.com/) and in the most exclusive italian location of [Forte dei Marmi](https://www.tedxfortedeimarmi.com/) !
