@@ -22,6 +22,8 @@ organizations:
   url: "https://www.tedxmirandola.com/"
 - name: University of Modena and Reggio Emilia
   url: "https://www.unimore.it"
+- name: Clust-ER Health 
+  url: "https://health.clust-er.it/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a connector, an innovation manager and a deep-learner who loves freedom and combining different ideas with science and entrepreneurship. # Driven to be useful for people. #My research interests include Deep Learning, Genomics, Vision & Language and AI applied to Biomedical fields.
