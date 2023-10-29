@@ -22,11 +22,11 @@ publication_short: "CMPB"
 abstract: "The functions of an organism and its biological processes result from the ex- pression of genes and proteins. Therefore quantifying and predicting mRNA and protein levels is a crucial aspect of scientific research. Concerning the prediction of mRNA levels, the available approaches use the sequence upstream and downstream of the Transcription Start Site (TSS) as input to neural networks. The State-of-the-art models (e.g., Xpresso and Basenjii) predict mRNA levels exploiting Convolutional (CNN) or Long Short Term Memory (LSTM) Networks. However, CNN prediction depends on convolutional kernel size, and LSTM suffers from capturing long-range dependencies in the sequence. Concerning the predic- tion of protein levels, as far as we know, there is no model for predicting protein levels by exploit- ing the gene or protein sequences. Methods: Here, we exploit a new model type (called Perceiver) for mRNA and protein level prediction, exploiting a Transformer-based architecture with an attention mod- ule to attend to long-range interactions in the sequences. In addition, the Perceiver model overcomes the quadratic complexity of the standard Transformer architectures. This work’s contributions are 1. DNAPer- ceiver model to predict mRNA levels from the sequence upstream and downstream of the TSS; 2. Pro- teinPerceiver model to predict protein levels from the protein sequence; 3. Protein&DNAPerceiver model to predict protein levels from TSS and protein sequences. Results: The models are evaluated on cell lines, mice, glioblastoma, and lung cancer tissues. The results show the effectiveness of the Perceiver-type mod- els in predicting mRNA and protein levels. Conclusions: This paper presents a Perceiver architecture for mRNA and protein level prediction. In the future, inserting regulatory and epigenetic information into the model could improve mRNA and protein level predictions."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "omputer Methods and Programs in Biomedicine - CMPB 2023"
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
