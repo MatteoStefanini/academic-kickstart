@@ -29,7 +29,7 @@ organizations:
 bio: I'm a connector, an innovation manager and a deep-learner who loves freedom and combining different ideas with science and entrepreneurship. # Driven to be useful for people. #My research interests include Deep Learning, Genomics, Vision & Language and AI applied to Biomedical fields.
 
 interests:
-- Innovation Management & Startup
+- Innovation, Growth & Startup
 - AI & Deep Learning
 - Science & Ideas Dissemination
 - Events & Conferences
